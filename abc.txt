@@ -1,0 +1,17 @@
+$Recycle.Bin
+$WinREAgent
+Data
+Documents and Settings
+Drivers
+Intel
+OneDriveTemp
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+Software download
+System Volume Information
+Users
+Windows
+xampp
